@@ -2,7 +2,7 @@
 
 **A BI dashboard identifying EV charging infrastructure gaps across major NSW shopping centres, built to guide GreenCharge's network expansion and partnership outreach strategy.**
 
-
+![Dashboard Screenshot](Dashboard.png)
 
 
 ---
